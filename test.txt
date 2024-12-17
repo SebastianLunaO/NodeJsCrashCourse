@@ -1,0 +1,2 @@
+Writing into the file
+This is append text
